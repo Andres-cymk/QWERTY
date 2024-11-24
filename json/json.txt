@@ -1,0 +1,1 @@
+Archivo de geolocalización para el mapa de calor
