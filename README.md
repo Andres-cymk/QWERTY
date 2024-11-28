@@ -121,6 +121,6 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 ![](https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/3.jpg)
 
 #### 4. Mapa de Calor por Continentes  
-![][(https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg)]
+![(https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg)]
 **Descripción:** Este mapa muestra la densidad de suicidios por región, destacando áreas con mayor impacto durante el periodo analizado.  
 
