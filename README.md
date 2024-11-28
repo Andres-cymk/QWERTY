@@ -114,13 +114,13 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 **Descripción:** Gráfica que compara el conteo de suicidios por rangos etarios, permitiendo identificar tendencias en generaciones específicas.  
 
 #### 2. Evolución Histórica de Suicidios  
-![](https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg)
+![a](https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg)
 **Descripción:** Representación temporal de los datos, enfocándose en los cambios y picos a lo largo de las últimas décadas.  
 
 #### 3. Relación entre Suicidio y Etapas de vida  
-![](https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/3.jpg)
+**[](https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/3.jpg)**
 
 #### 4. Mapa de Calor por Continentes  
-![(https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg)]
+https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg)
 **Descripción:** Este mapa muestra la densidad de suicidios por región, destacando áreas con mayor impacto durante el periodo analizado.  
 
