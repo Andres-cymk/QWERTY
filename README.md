@@ -136,6 +136,7 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 #### 4. Mapa de Calor por Continentes  
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg" alt="Mapa de Calor por Continentes"/>  
+  
   **Descripción:** Este mapa muestra la densidad de suicidios por región, destacando áreas con mayor impacto durante el periodo analizado.  
 </p>
 
