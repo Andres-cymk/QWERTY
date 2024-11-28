@@ -107,4 +107,21 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 - Datos nulos.  
 - Conteo de suicidios igual a cero.  
 
+### Visualización y conclusiones 
+
+#### 1. Mapa de Calor por Continentes  
+![Mapa de Calor por Continentes](ruta_de_la_carpeta/mapa_calor_continentes.png)  
+**Descripción:** Este mapa muestra la densidad de suicidios por región, destacando áreas con mayor impacto durante el periodo analizado.  
+
+#### 2. Análisis Generacional: Suicidios por Edad  
+![Análisis Generacional](ruta_de_la_carpeta/analisis_generacional.png)  
+**Descripción:** Gráfica que compara el conteo de suicidios por rangos etarios, permitiendo identificar tendencias en generaciones específicas.  
+
+#### 3. Evolución Histórica de Suicidios  
+![Evolución Histórica](ruta_de_la_carpeta/evolucion_historica.png)  
+**Descripción:** Representación temporal de los datos, enfocándose en los cambios y picos a lo largo de las últimas décadas.  
+
+#### 4. Relación entre Desarrollo Humano y Suicidios  
+![Desarrollo Humano vs Suicidios](ruta_de_la_carpeta/desarrollo_humano_vs_suicidios.png)  
+**Descripción:** Diagrama de dispersión que vincula índices de desarrollo humano (HDI) con tasas de suicidio.  
 
