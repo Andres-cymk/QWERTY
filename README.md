@@ -113,19 +113,24 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/1.jpg" alt="Análisis Generacional"/>  
   
-  **Descripción:** Gráfica que compara el conteo de suicidios por rangos etarios, permitiendo identificar tendencias en generaciones específicas.
+  **Descripción:** 
+  Muestra una mayor incidencia de suicidios en los adultos maduros, con picos notables en 1980 y a mediados de los 90. Estos picos pueden asociarse directamente con las crisis económicas que afectaron al mundo en esas décadas. En 1980, la segunda crisis del petróleo golpeó gravemente la economía global, generando un aumento masivo en el desempleo. En Europa, países como Reino Unido y Francia experimentaron desempleos históricos, lo que afectó particularmente a los adultos en su mediana edad. La inseguridad financiera, junto con la falta de recursos en salud mental, exacerbó los suicidios en este grupo etario. De manera similar, La crisis financiera asiática (1997-1998) no solo devastó economías, sino que también tuvo un impacto profundo en la salud mental de millones. El desempleo masivo, la pobreza y la pérdida de ahorros llevaron a un aumento significativo en las tasas de suicidio en países como Corea del Sur, Tailandia y Japón. en Asia y Europa también generó un impacto negativo que incrementó las tasas de suicidio en adultos.
 </p>
 
 #### 2. Evolución Histórica de Suicidios  
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg" alt="Evolución Histórica"/>  
 
-  **Descripción:** Representación temporal de los datos, enfocándose en los cambios y picos a lo largo de las últimas décadas.  
+  **Descripción:** 
+  Observamos las tasas de suicidio por sexo, donde los hombres tienen consistentemente tasas más altas. Es notable que los picos observados en los años 80 y 90 también se reflejan en los varones. Los estudios sugieren que durante estos periodos de crisis, los hombres enfrentaron mayores presiones económicas y sociales, lo que, sumado a su menor disposición a buscar ayuda, contribuyó a esta disparidad. En situaciones como la caída de la Unión Soviética a principios de los 90, la inestabilidad económica y la incertidumbre en Europa del Este llevaron a un aumento considerable en los suicidios masculinos.  
 </p>
 
 #### 3. Relación entre Suicidio y Etapas de vida  
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/3.jpg" alt="Suicidios vs Etapas de vida"/>  
+  
+ **Descripción:** 
+ Muestra el análisis por regiones, donde Europa es la más afectada en términos de suicidios. Nuevamente, los picos en los años 80 y 90 se destacan. Estos pueden vincularse a situaciones como la crisis del petróleo de 1979 y las dificultades socioeconómicas tras el colapso de la Unión Soviética en los 90. En Europa, las naciones del Este fueron especialmente afectadas, con un aumento dramático de las tasas de suicidio, debido a la inestabilidad política y económica en Rusia, Hungría y Letonia. La inflación galopante y el desempleo fueron factores críticos que impulsaron estos picos
 </p>
 
 #### 4. Mapa de Calor por Continentes  
