@@ -44,8 +44,25 @@ El objetivo principal es analizar patrones por **edad (generacionales)** y **reg
 
 ---
 
+### Datasets  
+1. **[Suicide Rates Overview 1985-2021 (Kaggle)](https://www.kaggle.com/datasets/omkargowda/suicide-rates-overview-1985-to-2021):**  
+   - Datos obtenidos de:  
+     - United Nations Development Program (2018)  
+     - World Bank (2018)  
+     - WHO (2018)  
+     - Szamil (2017)  
+
+2. **[WHO Suicide Statistics](https://www.kaggle.com/datasets/szamil/who-suicide-statistics/data):**  
+   Dataset complementario con mayor detalle estadístico.  
+
+3. **[WHO Suicide Data 1950-2021](https://www.kaggle.com/datasets/kumaranand05/who-suicide-data-1950-2021):**  
+   Datos de amplio rango histórico y análisis comparativo.  
+
+---
+
 ### Estructura de Análisis  
 
+#### División del Dataset  
 1. **Por Región:**  
    - América  
    - Europa  
@@ -69,6 +86,25 @@ El objetivo principal es analizar patrones por **edad (generacionales)** y **reg
    - **Generación Z:** 1997-2012  
    - **Generación Alfa:** 2013-2020  
 
-El análisis busca identificar **patrones sociales, económicos y tecnológicos** que han evolucionado a lo largo del tiempo y su influencia en la decisión de
-cometer suicidio en los distintos grupos sociales.
+#### Cálculos Generacionales  
+Se usaron los años registrados desde **1969 hasta 2020**, con una alta densidad de datos.  
+
+**Ejemplo:**  
+- Registro de **1980** en el rango de edad **[5-9 años]:**  
+  - Año de nacimiento estimado: `1980 - 5 = 1975`.  
+  - Generación asignada: **Generación X.**  
+- Si un rango abarca dos generaciones, se clasifica como "Generación de Transición" (e.g., **Generación X/Generación Y**).  
+
+Y también:
+### Regla para el Conteo de Suicidios  
+El conteo de suicidios se define como:  
+
+```plaintext
+Conteo de suicidios = Conteo de Suicidios por edad (Rango de edad 1) + Conteo de Suicidios por edad (Rango de edad 2)
+
+### Entonces  
+Con aproximadamente **10,000 registros**, se descartaron filas con:  
+- Datos nulos.  
+- Conteo de suicidios igual a cero.  
+
 
