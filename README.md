@@ -122,7 +122,7 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg" alt="Evolución Histórica"/>  
 
   **Descripción:** 
-  Observamos las tasas de suicidio por sexo, donde los hombres tienen consistentemente tasas más altas. Es notable que los picos observados en los años 80 y 90 también se reflejan en los varones. Los estudios sugieren que durante estos periodos de crisis, los hombres enfrentaron mayores presiones económicas y sociales, lo que, sumado a su menor disposición a buscar ayuda, contribuyó a esta disparidad. En situaciones como la caída de la Unión Soviética a principios de los 90, la inestabilidad económica y la incertidumbre en Europa del Este llevaron a un aumento considerable en los suicidios masculinos.  
+   Muestra el análisis por regiones, donde Europa es la más afectada en términos de suicidios. Nuevamente, los picos en los años 80 y 90 se destacan. Estos pueden vincularse a situaciones como la crisis del petróleo de 1979 y las dificultades socioeconómicas tras el colapso de la Unión Soviética en los 90. En Europa, las naciones del Este fueron especialmente afectadas, con un aumento dramático de las tasas de suicidio, debido a la inestabilidad política y económica en Rusia, Hungría y Letonia. La inflación galopante y el desempleo fueron factores críticos que impulsaron estos picos
 </p>
 
 #### 3. Relación entre Suicidio y Etapas de vida  
@@ -130,7 +130,7 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/3.jpg" alt="Suicidios vs Etapas de vida"/>  
   
  **Descripción:** 
- Muestra el análisis por regiones, donde Europa es la más afectada en términos de suicidios. Nuevamente, los picos en los años 80 y 90 se destacan. Estos pueden vincularse a situaciones como la crisis del petróleo de 1979 y las dificultades socioeconómicas tras el colapso de la Unión Soviética en los 90. En Europa, las naciones del Este fueron especialmente afectadas, con un aumento dramático de las tasas de suicidio, debido a la inestabilidad política y económica en Rusia, Hungría y Letonia. La inflación galopante y el desempleo fueron factores críticos que impulsaron estos picos
+ Observamos las tasas de suicidio por sexo, donde los hombres tienen consistentemente tasas más altas. Es notable que los picos observados en los años 80 y 90 también se reflejan en los varones. Los estudios sugieren que durante estos periodos de crisis, los hombres enfrentaron mayores presiones económicas y sociales, lo que, sumado a su menor disposición a buscar ayuda, contribuyó a esta disparidad. En situaciones como la caída de la Unión Soviética a principios de los 90, la inestabilidad económica y la incertidumbre en Europa del Este llevaron a un aumento considerable en los suicidios masculinos.  
 </p>
 
 #### 4. Mapa de Calor por Continentes  
