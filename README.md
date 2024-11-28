@@ -137,7 +137,8 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg" alt="Mapa de Calor por Continentes"/>  
   
-  **Descripción:** Este mapa muestra la densidad de suicidios por región, destacando áreas con mayor impacto durante el periodo analizado.  
+  **Descripción:**
+  El mapa de calor visualiza los suicidios a nivel mundial a lo largo del tiempo. Las zonas más oscuras corresponden a periodos críticos como las recesiones mencionadas en los 80 y 90. En todas las regiones afectadas por crisis económicas, especialmente en Europa y Asia, se puede ver cómo las tasas de suicidio aumentan notablemente durante estos periodos, reafirmando la relación entre los problemas financieros y la salud mental
 </p>
 
 
