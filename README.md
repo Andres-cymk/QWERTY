@@ -114,7 +114,7 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 **Descripción:** Gráfica que compara el conteo de suicidios por rangos etarios, permitiendo identificar tendencias en generaciones específicas.  
 
 #### 2. Evolución Histórica de Suicidios  
-![](https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg)
+![][(https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg)]
 **Descripción:** Representación temporal de los datos, enfocándose en los cambios y picos a lo largo de las últimas décadas.  
 
 #### 3. Relación entre Suicidio y Etapas de vida  
