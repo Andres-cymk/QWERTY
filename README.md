@@ -112,14 +112,14 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 #### 1. Análisis Etario: Suicidios por Edad  
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/1.jpg" alt="Análisis Generacional"/>  
-  <br>
+  
   **Descripción:** Gráfica que compara el conteo de suicidios por rangos etarios, permitiendo identificar tendencias en generaciones específicas.
 </p>
 
 #### 2. Evolución Histórica de Suicidios  
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/Proyecto/imagenes/2.jpg" alt="Evolución Histórica"/>  
-  <br>
+
   **Descripción:** Representación temporal de los datos, enfocándose en los cambios y picos a lo largo de las últimas décadas.  
 </p>
 
@@ -131,7 +131,6 @@ Con aproximadamente **10,000 registros**, se descartaron filas con:
 #### 4. Mapa de Calor por Continentes  
 <p align="center">
   <img src="https://github.com/Andres-cymk/QWERTY/blob/9f7e77137b3aa12a4e1227e6b7d8742763c8776f/imagenes/4.jpg" alt="Mapa de Calor por Continentes"/>  
-  <br>
   **Descripción:** Este mapa muestra la densidad de suicidios por región, destacando áreas con mayor impacto durante el periodo analizado.  
 </p>
 
